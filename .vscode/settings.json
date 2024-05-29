@@ -16,6 +16,7 @@
     "explorer.openEditors.visible": 0,
     "files.autoSave": "afterDelay",
     "screencastMode.onlyKeyboardShortcuts": true,
+    "sqlite.sqlite3": "/usr/bin/sqlite3",
     "terminal.integrated.fontSize": 18,
     "window.zoomLevel": 3,
     "workbench.activityBar.visible": true,
