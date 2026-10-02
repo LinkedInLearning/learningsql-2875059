@@ -1068,4 +1068,5 @@ INSERT INTO "people" ("first_name","last_name","city","state_code","shirt_or_hat
  ('Frances','Hunter','Madison','WI','shirt',87,'Angry Ants','2021-01-30',37,'Bergnaum, Goodwin and Schneider'),
  ('Mary','Washington','Farmington','MI','shirt',87,'Baffled Badgers','2021-01-30',19,'Eichmann, Kozey and Abbott'),
  ('James','Payne','Amarillo','TX','hat',94,'Cosmic Cobras','2021-01-30',42,'Kuhic Group');
+('Alex','Baker','Columbia','TX','shirt',92,'Baffled Badgers','2021-01-29',47,'Ryan Inc');
 COMMIT;
